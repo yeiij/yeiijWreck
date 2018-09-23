@@ -2,7 +2,7 @@
 Standalone Addon for Arma 3
 
 ## What this does?
-The addon generate wreck under water in a random position from a defined array of positions, the wreck contains 1 big boxe arround full of weapons and magazines
+The addon generate wreck under water in a random position from a defined array of positions, the wreck contains 1 big box arround full of weapons and magazines
 
 ## How i do install this?
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijWreck/releases)
